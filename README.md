@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lazmann&layout=compact)](https://github.com/Lazmann/github-readme-stats)
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=[link](https://www.instagram.com/sametcann/))](link) 
+
 
