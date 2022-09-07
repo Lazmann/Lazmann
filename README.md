@@ -1,3 +1,19 @@
+
+<!--
+**Lazmann/Lazmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on Arvis Technology...
+- 🌱 I’m currently learning Deep Learning, CNN, Machine Learning...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 ### Hi there 👋
 
 - 🌱 I’m currently learning Deep Learning, CNN, Machine Learning...
@@ -17,35 +33,7 @@
 </a>
 
 </p>
-<!--
-**Lazmann/Lazmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<h1 align="center">
-  Let's Connect and have a Chat!💬
-</h1>
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/sametcanyazici/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-
-<a href="instagram.com/sametcann">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
-</a>
-
-</p>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Arvis Technology...
-- 🌱 I’m currently learning Deep Learning, CNN, Machine Learning...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Lazmann&show_icons=true&theme=radical)
 ![Snake animation](https://github.com/Lazmann/Lazmann/blob/output/github-contribution-grid-snake.svg)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lazmann&layout=compact)](https://github.com/Lazmann/github-readme-stats)
