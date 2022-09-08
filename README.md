@@ -44,8 +44,8 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lazmann&layout=compact)](https://github.com/Lazmann/github-readme-stats)
 
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
+<h2 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -70,6 +70,8 @@ Here are some ideas to get you started:
 
 
 <br>
+
+<h1 align="center">
 
 </p>
 
