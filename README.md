@@ -13,8 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">
+  Hi there!👋
+  <br> </br>
+  <img class = "center" src="https://github.com/lil9991/lil9991/blob/main/img/TheOffice2.gif"  width="600" height="300" />
+</h1>
 
-### Hi there 👋
+
 
 - 🌱 I’m currently learning Deep Learning, CNN, Machine Learning...
 - ⚡ Fun fact: Video games...
