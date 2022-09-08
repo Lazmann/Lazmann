@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">
   Hi there!👋
   <br> </br>
-  <img class = "center" src="[http://slides.com/brentbaum/computer-vision/fullscreen](https://gifyu.com/image/SwVeP)"  width="600" height="300" />
+  <img class = "center" src="https://github.com/Lazmann/ETS2Autonomy/blob/main/video1.gif"  width="600" height="300" />
 </h1>
 
 
