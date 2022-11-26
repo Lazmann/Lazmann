@@ -1,6 +1,6 @@
 
 <!--
-**Lazmann/Lazmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sametcanyazici/sametcanyazici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 
 </p>
   
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=Lazmann&show_icons=true&theme=radical)
-![Snake animation](https://github.com/Lazmann/Lazmann/blob/output/github-contribution-grid-snake.svg)
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=sametcanyazici&show_icons=true&theme=radical)
+![Snake animation](https://github.com/sametcanyazici/sametcanyazici/blob/output/github-contribution-grid-snake.svg)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lazmann&layout=compact)](https://github.com/Lazmann/github-readme-stats)
 
 
