@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=sametcanyazici&show_icons=true&theme=radical)
 ![Snake animation](https://github.com/sametcanyazici/sametcanyazici/blob/output/github-contribution-grid-snake.svg)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lazmann&layout=compact)](https://github.com/Lazmann/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sametcanyazici&layout=compact)](https://github.com/sametcanyazici/github-readme-stats)
 
 
 <h2 align="center"> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
