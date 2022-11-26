@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 </p>
   
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=sametcanyazici&show_icons=true&theme=radical)
-![Snake animation](https://github.com/sametcanyazici/sametcanyazici/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/sametcanyazici/blob/output/github-contribution-grid-snake.svg)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sametcanyazici&layout=compact)](https://github.com/sametcanyazici/github-readme-stats)
 
 
