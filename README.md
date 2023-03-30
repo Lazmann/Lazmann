@@ -1,7 +1,7 @@
 
 <!--
 **sametcanyazici/sametcanyazici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![](https://komarev.com/ghpvc/?username=sametcanyazici&color=orange)](https://github.com/sametcanyazici)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Visiosoft...
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <br> </br>
   <img class = "center" src="https://github.com/sametcanyazici/ETS2Autonomy/blob/main/video1.gif"  width="600" height="300" />
 </h1>
-
+[![](https://komarev.com/ghpvc/?username=sametcanyazici&color=orange)](https://github.com/sametcanyazici)
 
 - 🔭 I’m currently working on Visiosoft...
 - 🌱 I’m currently learning Deep Learning, Computer Vision, CNN, Machine Learning...
